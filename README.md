@@ -102,15 +102,13 @@ activity_main.xml
 ```
 
 ## OUTPUT
-![J1](https://user-images.githubusercontent.com/75235132/163753204-ae6cd681-698f-4193-bc8d-8a56ef1d558d.jpeg)
-![J2](https://user-images.githubusercontent.com/75235132/163753227-7ed87af8-621f-4b1c-8ae2-0ff727982c11.jpeg)
-![J3](https://user-images.githubusercontent.com/75235132/163753247-d3c28392-2ef3-4cda-9446-4d2630c47a42.jpeg)
-![J4](https://user-images.githubusercontent.com/75235132/163753264-5bf3a4d5-03a8-47bd-8708-06a2f8e85d03.jpeg)
-![J5](https://user-images.githubusercontent.com/75235132/163753280-3cb458cc-5cb4-465a-887b-5757d7a67488.jpeg)
-![J6](https://user-images.githubusercontent.com/75235132/163753302-55991a96-aeda-4237-a534-089e8fc23d3e.jpeg)
-
-
-
+![java 1](https://user-images.githubusercontent.com/75235132/165217607-f491190b-4c78-46df-aa4c-5d8d28bdfcab.png)
+![java 2](https://user-images.githubusercontent.com/75235132/165217630-0581036d-f244-4c9b-8efb-c38d26ed36bd.png)
+![java 3](https://user-images.githubusercontent.com/75235132/165217652-2f98d6ba-68d0-4119-8768-eb80ff496944.png)
+![java 4](https://user-images.githubusercontent.com/75235132/165217687-43b586e0-88bd-409c-8841-481189793c38.png)
+![java 5](https://user-images.githubusercontent.com/75235132/165217693-2f72da19-a5f2-4671-96ea-a1133a14fd15.png)
+![java 6](https://user-images.githubusercontent.com/75235132/165217706-9cfe909d-114c-45c0-9c91-f615088082a2.png)
+![java 7](https://user-images.githubusercontent.com/75235132/165217710-9e9e822f-08f6-4a52-bf08-6e5d1fb4e9ed.png)
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
